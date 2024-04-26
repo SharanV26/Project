@@ -1,0 +1,4 @@
+The Text  captured is - The email address you entered is not valid.
+Checking whether the button is enabled -  false
+Results for Testing 
+Valid
